@@ -1,0 +1,2 @@
+{"ts": "2026-05-20T17:41:42.698219", "status": "error", "error": "(535, b'Incorrect authentication data')", "email_sent": false}
+{"ts": "2026-05-20T17:42:28.533837", "status": "ok", "records": 46, "biz_email": 11, "with_phone": 22, "email_sent": true}
